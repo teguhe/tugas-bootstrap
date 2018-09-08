@@ -1,0 +1,25 @@
+.h2 {
+    text-decoration : blueviolet; 
+}
+
+.jumbotron {
+    border-radius: 4px;
+    background-color: linen;
+    border-width: 2px;
+    border-style: double;
+    border-color: darkgray;
+    background-blend-mode: color-burn;
+}
+
+.display-4 {
+    font-family: Acme;
+    font-size: 80px;
+}
+
+.list-group-item {
+    background-color: linen;
+}
+
+.list-group {
+    
+}
